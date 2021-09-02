@@ -1,4 +1,4 @@
-name: heroku-firstday
+name: cancel
 
 on:
   workflow_dispatch:
